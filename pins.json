@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Muttart Conservatory",
+      "position": { "lat": 53.5344, "lng": -113.4786 },
+      "photos": [
+        {
+          "src": "./img/aesthetic.png",
+          "caption": "Certified fine shyt"
+        },
+        {
+          "src": "./img/Duos.png",
+          "caption": "I think we ate in this photo, FEE FIE FO FUM LOOKING AHHH IN THE GREEN THO"
+        }
+      ]
+    },
+    {
+      "title": "Earls Kitchen + Bar",
+      "position": { "lat": 53.5198, "lng": -113.5239 },
+      "photos": [
+        {
+          "src": "./img/perfection.png",
+          "caption": "They really be expecting me to lock in like a sweat with a view like this"
+        },
+        {
+          "src": "./img/earls2.jpg",
+          "caption": "Cozy patio spot in the summer ☀️"
+        }
+      ]
+    }
+  ]
+  
