@@ -8,3 +8,22 @@
     object-fit: contain;
   }
   
+  .carousel-caption-box {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.6);
+    background-size: 100% 100%;
+    padding: 24px;
+    border-radius: 50%;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  

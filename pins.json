@@ -22,8 +22,98 @@
           "caption": "They really be expecting me to lock in like a sweat with a view like this"
         },
         {
-          "src": "./img/earls2.jpg",
-          "caption": "Cozy patio spot in the summer ☀️"
+          "src": "./img/earls2.png",
+          "caption": "IDK why you haven't posted this, GOON MATERIAL RIGHT HERE"
+        }
+      ]
+    },
+    {
+        "title": "Pumpkins After Dark",
+        "position": { "lat": 53.5624, "lng": -113.4608 },
+        "photos": [
+          {
+            "src": "./img/pompkin.png",
+            "caption": "SPOOKY SCARY SKELETONS, this was a really fun night. WE ARE NOT SPENDING THAT MUCH AGAIN ON TICKETS."
+          }
+        ]
+    },
+    {
+        "title": "Ihouse",
+        "position": { "lat": 53.5211, "lng": -113.5257 },
+        "photos": [
+          {
+            "src": "./img/ihousebounceonit.png",
+            "caption": "CAN YOU BOUNCE ON IT SILLY STYLE LIKE THIS FOR ME PLEASE PLEASE PLEASE"
+          },
+          {
+            "src": "./img/IhousewokeUp.png",
+            "caption": "#WOKEUPLIKETHIS #FRESH #CERTIFIEDFREAK #7DAYSAWEEK #EATIT #SILLYSTYLE"
+          },
+          {
+            "src": "./img/IhouseAHHHHH.png",
+            "caption": "*Insert plankton moaning sound*"
+          }
+        ]
+    }, 
+    {
+        "title": "The Next Act",
+        "position": { "lat": 53.5186, "lng": -113.5001 },
+        "photos": [
+          {
+            "src": "./img/restaurantbyMEAT.png",
+            "caption": "THIS AND BEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEER"
+          }
+        ]
+    },
+    {
+        "title": "Business Atrium",
+        "position": { "lat": 53.5271, "lng": -113.5253 },
+        "photos": [
+          {
+            "src": "./img/bidnessatrium.png",
+            "caption": "IDK how u cooked while extremely sick but you still did are you lebron? #THEGOAT?"
+          }
+        ]
+    },
+    {
+        "title": "Home",
+        "position": { "lat": 53.5547, "lng": -113.5792 },
+        "photos": [
+          {
+            "src": "./img/CAMPCOUNSELLOR.png",
+            "caption": "ALRIGHT CAMP COUNSELLOR, LEAD THE WAY INTO DANGER"
+          }
+        ]
+    },
+    {
+        "title": "Sugarbowl",
+        "position": { "lat": 53.5216, "lng": -113.5199 },
+        "photos": [
+          {
+            "src": "./img/sugarbowl.png",
+            "caption": "Thank you for paying for my chicken and waffles, this place was kinda buss pwincess ngl "
+          }
+        ]
+    }, 
+    {
+      "title": "West Edmonton Mall",
+      "position": { "lat": 53.5226, "lng": -113.6246 },
+      "photos": [
+        {
+          "src": "./img/WEMNINO.png",
+          "caption": "We really popped out with the fits just to go to the mall this day."
+        },
+        {
+          "src": "./img/WEMFREAK.png",
+          "caption": "WARNING: LOCAL FREAK IN THE MALL ABOUT 5'0 WANDERING AROUND. RUN ON SIGHT."
+        },
+        {
+            "src": "./img/WEMcutefreak.png",
+            "caption": "aweh what a cute lil freak with her radioactive mini melts. WARNING: STILL A LEVIATHEN LEVEL THREAT. "
+        },
+        {
+            "src": "./img/WEMhotpot.png",
+            "caption": "We should have bought this bib from the restaurant, the lady lowkey saved the fit cuz it was very sexy."
         }
       ]
     }

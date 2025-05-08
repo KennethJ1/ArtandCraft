@@ -8,11 +8,14 @@ function createCarousel(items) {
     const slide = document.createElement("div");
     slide.className = `carousel-item${index === 0 ? " active" : ""}`;
     slide.innerHTML = `
+    <div class="position-relative">
       <img src="${photo.src}" class="d-block w-100" style="max-height: 70vh; object-fit: contain;" alt="Slide ${index}">
-      <div class="carousel-caption d-none d-md-block">
-        <p>${photo.caption}</p>
-      </div>
-    `;
+    </div>
+    <div class="carousel-caption-box text-center p-3 bg-light border-top">
+      <small>${photo.caption}</small>
+    </div>
+  `;
+  
     container.appendChild(slide);
   });
 
